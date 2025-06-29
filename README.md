@@ -1,10 +1,14 @@
 <h1>Hi, I'm Michelle! 
+<h2>👾 Welcome to My Portfolio!
+
+Here, you’ll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
+</h2>
+<h2></h2>
   
 <h2>👨‍💻 Raspberry Pi Projects:</h2>
 
-- <b> Raspberrypi-setup-guide</b>
-  - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide)
-
+- **Raspberrypi-setup-guide**
+    - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide)
 
 <h2>📺 Popular YouTube Videos</h2>
 
