@@ -1,7 +1,7 @@
 # Hi, I'm Michelle!
 ## 👾 Welcome to My Portfolio!**
 ____________
-### [Knowledge Base](KB.md) | [Resume](Resume.md)
+### [Knowledge Base](KB.md) | [Resume](file:///C:/Users/Miche/Downloads/CV_MICHELLE_DANG%20(1).pdf)
 
 Here, you’ll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
