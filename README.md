@@ -2,6 +2,17 @@
 ## 👾 Welcome to My Portfolio!**
 
 Here, you’ll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
+
+## 📜 Certifications:
+- [CompTIA A+](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1750277092138/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [CompTIA Network+](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1750277092138/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+- [ITIL® v4 Foundation](https://www.linkedin.com/in/michelle-dang-720as/details/certifications/1739312230908/single-media-viewer/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q)
+
+## 🎓 Education:
+**Western Governors University**
+-Bachelor of Science - BS, Information Technology
+
+
   
 ## 👨‍💻 Raspberry Pi Projects:
 
@@ -16,13 +27,10 @@ Here, you’ll find a showcase of my journey through the world of cybersecurity,
 ## 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/michelle-dang-720cs
+
 
 
