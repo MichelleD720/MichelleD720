@@ -1,5 +1,7 @@
 # Hi, I'm Michelle!
 ## 👾 Welcome to My Portfolio!**
+____________
+### [Knowledge Base](KB.md) | [Resume](Resume.md)
 
 Here, you’ll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
@@ -12,19 +14,15 @@ Here, you’ll find a showcase of my journey through the world of cybersecurity,
 **Western Governors University**
 -Bachelor of Science - BS, Information Technology
 
-
-  
 ## 👨‍💻 Raspberry Pi Projects:
 
 - **Raspberrypi-setup-guide**
     - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/README.md)
 
-## 📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## 📺 Popular YouTube Videos
 
 
-## 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
