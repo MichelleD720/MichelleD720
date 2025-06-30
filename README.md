@@ -6,7 +6,7 @@ Here, you’ll find a showcase of my journey through the world of cybersecurity,
 ## 👨‍💻 Raspberry Pi Projects:
 
 - **Raspberrypi-setup-guide**
-    - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide)
+    - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/README.md)
 
 ## 📺 Popular YouTube Videos</h2>
 
