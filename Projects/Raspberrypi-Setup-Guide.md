@@ -19,7 +19,7 @@ This article outlines how to set up a Raspberry Pi using a headless method (no m
 ## Obstacles 
 - Couldn’t find the fan’s connection port. **Skip to 1.1**
 - Ports misaligned, making it hard to fit the Pi into the case. **Skip to 1.4**  
-- No display output, so switched to headless setup.  
+- No display output, so switched to headless setup.  **Skip to KB-RPI-0004**
 - Trouble connecting to Wi-Fi and locating IP/MAC addresses. **Skip to 3.8**
 #### Note 
 I will explain how I fixed the display output to monitor issue. For those who don't want the headless method **Skip to KB-RPI-0004**
