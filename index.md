@@ -1,7 +1,7 @@
 # Hi, I'm Michelle!
 ## 👾 Welcome to My Portfolio!**
 ____________
-### [Knowledge Base](KB.md) | [Resume](https://github.com/MichelleD720/MichelleD720/blob/main/CV_MICHELLE_DANG.pdf)
+### [Knowledge Base](KB.md) | [Resume](https://github.com/MichelleD720/MichelleD720/blob/main/CV_MICHELLE_DANG.pdf) | [Projects](https://github.com/MichelleD720/MichelleD720/tree/main/Projects)
 
 Here, you’ll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
