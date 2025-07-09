@@ -1,8 +1,7 @@
 # All RPI KB Articles 
 
-- [KB-VPN-0001 VPN-Server-Setup](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/VPN-Server-Setup.md)  
-- [KB-VPN-0002 Port-Forwarding-Checklist](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/Port-Forwarding-Checklist.md)  
-- [KB-VPN-0003 DuckDNS-Dynamic-IP](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/DuckDNS-Dynamic-IP.md)  
-- [KB-VPN-0004 Docker-Compose-Deployment](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/Docker-Compose-Deployment.md)  
-- [KB-VPN-0005 Mobile-Client-Config](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/Mobile-Client-Config.md)  
-- [KB-VPN-0006 Managing-With-Portainer](https://github.com/MichelleD720/rpi-vpn-setup-guide/blob/main/Managing-With-Portainer.md)  
+- [KB-RPI-0001 Hardware-Set-Up](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Hardware-Set-Up.md)
+- [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
+- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
+- [KB-RPI-0004 No-Signal-Display-Monitor](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/No-Signal-Display-Monitor.md)
+- [KB-RPI-0005 New_PWD_And_Hostname](https://github.com/MichelleD720/raspberrypi-setup-guide/edit/main/New_PWD_And_Hostname.md)
