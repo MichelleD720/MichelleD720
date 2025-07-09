@@ -10,4 +10,4 @@
 ## Obstacles
 Could not delete pi user due to still being in use **skip to 6.9**
 
-### Documentation in progress
+### This documentation is in progress
