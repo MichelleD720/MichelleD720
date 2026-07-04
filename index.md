@@ -2,7 +2,7 @@
 
 ## 👾 Welcome to My Portfolio!
 ____________
-### [Knowledge Base](https://github.com/MichelleD720/MichelleD720/blob/main/kb_table_of_contents.md) | [Resume](https://github.com/MichelleD720/MichelleD720/blob/main/CV_MICHELLE_DANG.pdf) | [Projects](https://github.com/MichelleD720/MichelleD720/tree/main/Projects)
+### [Knowledge Base](https://github.com/MichelleD720/MichelleD720/blob/main/kb_table_of_contents.md) | [Resume](https://github.com/MichelleD720/MichelleD720/blob/main/Michelle_Dang.docx) | [Projects](https://github.com/MichelleD720/MichelleD720/tree/main/Projects)
 
 Here, you’ll find a showcase of my journey through the world of IT, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
 
@@ -20,7 +20,7 @@ Here, you’ll find a showcase of my journey through the world of IT, including 
 - **Raspberrypi-setup-guide**
     - [Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/README.md)
 
-[linkedin]: www.linkedin.com/in/michelle-dang-720cs
+[linkedin]: www.linkedin.com/in/michelle-dang-720rm-rf
 
 
 
