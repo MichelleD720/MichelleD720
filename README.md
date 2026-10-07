@@ -23,4 +23,4 @@ B.S. Information Technology, Western Governors University
 * homelab: coming soon
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/michelle-dang-720rm-rf) · [Portfolio](https://michelled720.github.io)
+- [ITIL® v4 Foundation](https://www.linkedin.com/in/michelle-dang-720rm-rf/overlay/Certifications/1997958846/treasury/?profileId=ACoAADUczHYBQ3vGWZYo6mptC-YslKw9rkJpF2Q) · [Portfolio](https://michelled720.github.io)
