@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Michelle 👋
 
-<!--
-**MichelleD720/MichelleD720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist supporting 1,100+ users in a Microsoft 365 and Entra ID environment. I build and document a self hosted home lab to track my systems and networking skills.
 
-Here are some ideas to get you started:
+🔭 **Currently:** rebuilding my home lab with Proxmox, Docker, and a Raspberry Pi 5 network stack
+🎯 **Looking for:** IT support, systems, and junior sysadmin roles in the LA area
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+CompTIA A+ · CompTIA Network+ · CompTIA Project+ · ITIL 4 Foundation
+
+## 🎓 Education
+B.S. Information Technology, Western Governors University 
+
+## 🛠️ Skills
+**Systems:** Microsoft 365, Entra ID, Windows, Linux (Raspberry Pi OS)
+**Networking:** WireGuard VPN, DNS, mesh networking, structured cabling
+**Tools:** Docker, Git, PowerShell, Python
+**Hardware:** Imaging and deployment, security cameras (NVR), AV installs
+
+## 📂 Featured Work
+* [Portfolio and Knowledge Base](https://michelled720.github.io): technical documentation in KB article format
+* [it-journal](https://github.com/MichelleD720/it-journal): daily build log of my IT projects and lab work
+* homelab: coming soon
+
+## 📫 Connect
+[LinkedIn](www.linkedin.com/in/michelle-dang-720rm-rf) · [Portfolio](https://michelled720.github.io)
